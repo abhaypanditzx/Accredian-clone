@@ -4,11 +4,11 @@ A responsive partial clone of the Accredian Enterprise website built using **Nex
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://accredian-clone-tau-one.vercel.app/
 
 ## GitHub Repository
 
-https://github.com/yourusername/accredian-enterprise
+https://github.com/abhaypanditzx/Accredian-clone
 
 ---
 
